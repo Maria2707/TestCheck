@@ -9,7 +9,6 @@
 	}
 ]
 
-R@bota1334111
 
 Check the tab caption.
 
